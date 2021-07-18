@@ -1,6 +1,6 @@
 # Hi there, I'm Spencer 👋
 - 🔭 I’m currently working on my Bachelor's and Master's in CS at Northwestern University
-- 💬 Ask me about : Python, JavaScript, Computational Photography
+- 💬 Ask me about : User-Centered Design, Scalability, Computational Photography
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: <a href="mailto:spencer@spencerfitch.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a><a href="https://www.linkedin.com/in/spencer-fitch
 ">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
